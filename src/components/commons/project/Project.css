@@ -1,0 +1,26 @@
+.project-card {
+    border-color: white;
+    border-width: 1px;
+    border-radius: 2px;
+    border-style: solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.project-card h3 {
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+}
+
+.project-card p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.project-card .project-links a {
+    font-size: 1.3rem;
+    font-weight: 100;
+    color: white;
+}

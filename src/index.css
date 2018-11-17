@@ -1,0 +1,14 @@
+body {
+    font-family: 'Lato', monospace;
+    margin: 0;
+}
+
+:root {
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 768px) {
+    :root {
+        font-size: 12px;
+    }
+}
