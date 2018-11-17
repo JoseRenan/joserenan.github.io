@@ -19,7 +19,8 @@
     margin-bottom: 20px;
 }
 
-.project-card .project-links {
+.project-card .project-links a {
     font-size: 1.3rem;
     font-weight: 100;
+    color: white;
 }
