@@ -8,41 +8,36 @@ import Project from '../commons/project/Project';
 
 const projects = [
     {
-        title: 'Teste',
+        title: 'Spotify Web SDK',
         description: 'Some description will be here!!!',
-        id: 'testing',
-        org: 'testing',
+        id: 'spotify-web-sdk',
+        org: 'calluswhatyouwant',
         npm: true
     }, {
-        title: 'Teste',
+        title: 'Musicritic',
         description: 'Some description will be here!!!',
-        id: 'testing',
-        org: 'testing',
-        npm: true
+        id: 'musicritic',
+        org: 'calluswhatyouwant',
     }, {
-        title: 'Teste',
+        title: 'IssueAi',
         description: 'Some description will be here!!!',
-        id: 'testing',
-        org: 'testing',
-        npm: true
+        id: 'issueai',
+        org: 'opendevufcg',
     }, {
-        title: 'Teste',
+        title: 'Opining',
         description: 'Some description will be here!!!',
-        id: 'testing',
-        org: 'testing',
-        npm: true
+        id: 'opining_android',
+        org: 'joserenan',
     }, {
-        title: 'Teste',
+        title: 'NutrIF',
         description: 'Some description will be here!!!',
-        id: 'testing',
-        org: 'testing',
-        npm: true
+        id: 'nutrif',
+        org: 'ladossifpb',
     }, {
-        title: 'Teste',
+        title: 'Jukebox',
         description: 'Some description will be here!!!',
-        id: 'testing',
-        org: 'testing',
-        npm: true
+        id: 'jukebox',
+        org: 'joserenan',
     }
 ];
 
