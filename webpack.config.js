@@ -7,7 +7,8 @@ const config = {
     entry: ['react-dev-utils/webpackHotDevClient', './src/index.js'],
     devServer: {
         port: 8000,
-        contentBase: __dirname + '/build',
+        contentBase: __dirname,
+        publicPath: '/build/',
         historyApiFallback: true,
     },
     output: {

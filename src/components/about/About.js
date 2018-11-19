@@ -50,10 +50,10 @@ const About = () => (
     <Section
         backgroundColor="#242424">
         <div bp="grid" className="about">
-            <Card bp="4" />
-            <div bp="8" className="projects">
+            <Card bp="12@md 4@lg" />
+            <div bp="12@md 8@lg" className="projects">
                 <h1>Projects</h1>
-                <div bp="grid 6">
+                <div bp="grid 4@xl 6@md 12@sm">
                     {projects.map(project => <Project key={project.id} project={project}/>)}
                 </div>
             </div>
