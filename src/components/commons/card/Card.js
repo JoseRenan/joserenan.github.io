@@ -6,7 +6,7 @@ import './Card.css';
 const Card = ({ bp }: { bp: string }) => (
     <div bp={bp} className="card">
         <h1>About me</h1>
-        <p>Testando texto aqui kikiki</p>
+        <p></p>
     </div>
 );
 

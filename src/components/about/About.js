@@ -9,36 +9,31 @@ import Project from '../commons/project/Project';
 const projects = [
     {
         title: 'Spotify Web SDK',
-        description: 'Some description will be here!!!',
+        description: 'A JavaScript SDK with the purpose of simplifying the process of obtaining and managing data from the Spotify Web API.',
         id: 'spotify-web-sdk',
         org: 'calluswhatyouwant',
         npm: true
     }, {
         title: 'Musicritic',
-        description: 'Some description will be here!!!',
+        description: 'A ReactJS web application that aims to be a music-specific Metacritic, with ratings provided by users using information provided by Spotify’s Web API.',
         id: 'musicritic',
         org: 'calluswhatyouwant',
     }, {
         title: 'IssueAi',
-        description: 'Some description will be here!!!',
+        description: 'A platform to students of computer science at UFCG find open source projects made by other students to contribute. A gateway to enter in the open source world.',
         id: 'issueai',
         org: 'opendevufcg',
     }, {
         title: 'Opining',
-        description: 'Some description will be here!!!',
+        description: 'Android application to help students and teachers with the management and organization of classroom debates that can be taken out of the school.',
         id: 'opining_android',
         org: 'joserenan',
     }, {
         title: 'NutrIF',
-        description: 'Some description will be here!!!',
+        description: 'Web application which manages the IFPB student’s restaurant, entrance and exit of the meals and benefited students.',
         id: 'nutrif',
         org: 'ladossifpb',
-    }, {
-        title: 'Jukebox',
-        description: 'Some description will be here!!!',
-        id: 'jukebox',
-        org: 'joserenan',
-    }
+    },
 ];
 
 const About = () => (
