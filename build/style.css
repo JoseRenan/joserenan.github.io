@@ -58,6 +58,10 @@
     height: 100%;
     border-radius: 2px;
 }
+
+.card a {
+    text-decoration: none;
+}
 .project-card {
     border-color: white;
     border-width: 1px;
